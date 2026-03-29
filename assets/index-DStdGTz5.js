@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as s,c as t,g as r}from"./index-CeyBkzTL.js";const a={},c={class:"box"};function n(_,e){return s(),t("div",c,[...e[0]||(e[0]=[r("h1",null,"用户管理",-1)])])}const i=o(a,[["render",n],["__scopeId","data-v-396ff3a9"]]);export{i as default};

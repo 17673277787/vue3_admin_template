@@ -1,1 +1,0 @@
-import{d as n,c as o,g as t,o as a}from"./index-CBUVcyxn.js";const p=n({__name:"index",setup(r){return(s,e)=>(a(),o("div",null,[...e[0]||(e[0]=[t("h1",null,"我是一级路由展示登录成功以后的数据",-1)])]))}});export{p as default};
